@@ -7,7 +7,7 @@ Hello and welcome to my Github page! I'm Oliwier, a student based in UK. Here, y
 * SQL: I have experience working with basic SQL commands and database management.
 
 ### Projects 🔭
-I made a lot of useless repostories just to learn on them and be able to access them from everywhere but my proudest one for now is:
+I made a lot of repostories just to learn on them and be able to access them from everywhere but my proudest one for now is:
 [Russian Roullette](https://github.com/olssonik/russian_roulette)
 
 You can also access it as a website [here](https://olssonik.github.io)
