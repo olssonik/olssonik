@@ -1,5 +1,5 @@
 ### Hi, I`m Oli 👋 Welcome to my Github Page!
-Hello and welcome to my Github page! I'm Oliwier, a student based in UK. Here, you will find some of my projects and contributions to the open-source community.
+Hello and welcome to my Github page! I'm Oliwier, indie developer based in UK. Here, you will find some of my projects and contributions to the open-source community.
 
 ### Skills 🌱
 * Linux: I'm comfortable working with Linux-based systems and have experience with various distributions.
