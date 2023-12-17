@@ -25,7 +25,7 @@ comfortable while using : ⭐⭐⭐
 * Git ⭐⭐⭐
 
 ### Projects 🔭
-Two websites [design focused](https://olssonik.github.io) and [ focused](https://oliborozynski.duckdns.net)
+Two websites [design focused](https://olssonik.github.io) and [build using SolidJS and express](https://oliborozynski.duckdns.org)
 
 
 ### Contact 💬
