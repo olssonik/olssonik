@@ -2,15 +2,31 @@
 Hello and welcome to my Github page! I'm Oliwier, indie developer based in UK. Here, you will find some of my projects and contributions to the open-source community.
 
 ### Skills 🌱
-* Linux: I'm comfortable working with Linux-based systems and have experience with various distributions.
-* JavaScript: I have a good understanding of plain JavaScript and am currently learning popular frameworks like Next.js.
-* SQL: I have experience working with basic SQL commands and database management.
+basic : ⭐
+good : ⭐⭐
+comfortable while using : ⭐⭐⭐
+* Linux {
+  arch ⭐⭐,
+  debian ⭐⭐⭐
+  },
+* JavaScript:{
+  React ⭐⭐⭐,
+  SolidJS ⭐⭐⭐,
+  Vanilla JS ⭐⭐⭐,
+  NodeJS ⭐⭐⭐,
+  express ⭐⭐⭐
+  },
+* SQL ⭐⭐⭐,
+* Python ⭐⭐⭐,
+* C# ⭐⭐,
+* C ⭐,
+* Powershell ⭐⭐,
+* Docker ⭐⭐⭐,
+* Git ⭐⭐⭐
 
 ### Projects 🔭
-I made a lot of repostories just to learn on them and be able to access them from everywhere but my proudest one for now is:
-[Russian Roullette](https://github.com/olssonik/russian_roulette)
+Two websites [design focused](https://olssonik.github.io) and [ focused](https://oliborozynski.duckdns.net)
 
-You can also access it as a website [here](https://olssonik.github.io)
 
 ### Contact 💬
 borozytoja@gmail.com
