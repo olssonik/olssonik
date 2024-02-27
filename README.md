@@ -9,6 +9,7 @@ comfortable while using : ⭐⭐⭐
   arch ⭐⭐,
   debian ⭐⭐⭐
   },
+
 * JavaScript:{
   React ⭐⭐⭐,
   SolidJS ⭐⭐⭐,
@@ -16,6 +17,11 @@ comfortable while using : ⭐⭐⭐
   NodeJS ⭐⭐⭐,
   express ⭐⭐⭐
   },
+  repostories:
+```
+[full code of my web app](https://github.com/olssonik/portfoliowebsite '')
+
+```
 * SQL ⭐⭐⭐,
 * Python ⭐⭐⭐,
 * C# ⭐⭐,
