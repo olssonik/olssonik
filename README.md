@@ -18,8 +18,8 @@ comfortable while using : ⭐⭐⭐
   SolidJS ⭐⭐⭐,
   Vanilla JS ⭐⭐⭐,
   NodeJS ⭐⭐⭐,
-  express ⭐⭐⭐
-repostories:
+  express ⭐⭐⭐,
+  repostories:
 
 *[full code of my personal web app](https://github.com/olssonik/portfoliowebsite)*
 *[design website code](https://github.com/olssonik/olssonik.github.io) also the link to the [website](https://olssonik.github.io/)*
