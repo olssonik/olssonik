@@ -8,9 +8,9 @@ comfortable while using : ⭐⭐⭐
 * Linux {
   arch ⭐⭐,
   debian ⭐⭐⭐
-  repostories:
-  *[nginx script](https://github.com/olssonik/ipchecker)*
-  *[discord in bash (its bad)](https://github.com/olssonik/bashcord)*
+  repostories:<br>
+  *[nginx script](https://github.com/olssonik/ipchecker)*<br>
+  *[discord in bash (its bad)](https://github.com/olssonik/bashcord)*<br>
   },
 
 * JavaScript:{
