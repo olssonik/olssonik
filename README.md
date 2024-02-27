@@ -16,7 +16,7 @@ comfortable while using : ⭐⭐⭐
   Vanilla JS ⭐⭐⭐,
   NodeJS ⭐⭐⭐,
   express ⭐⭐⭐
-  repostories:
+repostories:
 
 *[full code of my web app](https://github.com/olssonik/portfoliowebsite '')*
   },
