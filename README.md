@@ -22,7 +22,7 @@ comfortable while using : ⭐⭐⭐
 repostories:
 
 *[full code of my personal web app](https://github.com/olssonik/portfoliowebsite)*
-*[design website code](https://github.com/olssonik/olssonik.github.io) '') also the link to the [website](https://olssonik.github.io/)*
+*[design website code](https://github.com/olssonik/olssonik.github.io) also the link to the [website](https://olssonik.github.io/)*
 *[tic-tac-toe](https://github.com/olssonik/tiock)*
 *[unit converter](https://github.com/olssonik/Unit-Converter)*
 *[russian roulette](https://github.com/olssonik/russian_roulette)*
