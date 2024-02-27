@@ -19,7 +19,8 @@ comfortable while using : ⭐⭐⭐
   Vanilla JS ⭐⭐⭐,
   NodeJS ⭐⭐⭐,
   express ⭐⭐⭐,
-  repostories:
+<br>
+   repostories:
 
 *[full code of my personal web app](https://github.com/olssonik/portfoliowebsite)*
 *[design website code](https://github.com/olssonik/olssonik.github.io) also the link to the [website](https://olssonik.github.io/)*
