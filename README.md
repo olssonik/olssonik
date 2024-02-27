@@ -26,7 +26,7 @@ comfortable while using : ⭐⭐⭐
 *[tic-tac-toe](https://github.com/olssonik/tiock)*
 *[unit converter](https://github.com/olssonik/Unit-Converter)*
 *[russian roulette](https://github.com/olssonik/russian_roulette)*
-  },
+},
   
 
 
