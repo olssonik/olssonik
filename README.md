@@ -24,7 +24,7 @@ repostories:
 
 
 
-* SQL ⭐⭐⭐ *[sql project]((https://github.com/olssonik/sqlDB '')*,
+* SQL ⭐⭐⭐ *[sql project](https://github.com/olssonik/sqlDB '')*,
 * Python ⭐⭐⭐,
 * C# ⭐⭐,
 * C ⭐,
