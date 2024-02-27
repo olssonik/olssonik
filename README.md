@@ -19,7 +19,7 @@ comfortable while using : ⭐⭐⭐
   },
   repostories:
 
-[full code of my web app](https://github.com/olssonik/portfoliowebsite '')
+*[full code of my web app](https://github.com/olssonik/portfoliowebsite '')*
 
 
 * SQL ⭐⭐⭐,
