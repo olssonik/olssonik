@@ -18,13 +18,13 @@ comfortable while using : ⭐⭐⭐
   express ⭐⭐⭐
 repostories:
 
-*[full code of my web app](https://github.com/olssonik/portfoliowebsite '')*
+*[full code of my web app](https://github.com/olssonik/portfoliowebsite )*
   },
   
 
 
 
-* SQL ⭐⭐⭐,
+* SQL ⭐⭐⭐ *[sql project]((https://github.com/olssonik/sqlDB )*,
 * Python ⭐⭐⭐,
 * C# ⭐⭐,
 * C ⭐,
