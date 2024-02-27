@@ -18,10 +18,10 @@ comfortable while using : ⭐⭐⭐
   express ⭐⭐⭐
   },
   repostories:
-```
+
 [full code of my web app](https://github.com/olssonik/portfoliowebsite '')
 
-```
+
 * SQL ⭐⭐⭐,
 * Python ⭐⭐⭐,
 * C# ⭐⭐,
