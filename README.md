@@ -8,6 +8,9 @@ comfortable while using : ⭐⭐⭐
 * Linux {
   arch ⭐⭐,
   debian ⭐⭐⭐
+  repostories:
+  *[nginx script](https://github.com/olssonik/ipchecker) '')*
+  *[discord in bash (its bad)](https://github.com/olssonik/bashcord)) '')*
   },
 
 * JavaScript:{
@@ -18,7 +21,11 @@ comfortable while using : ⭐⭐⭐
   express ⭐⭐⭐
 repostories:
 
-*[full code of my web app](https://github.com/olssonik/portfoliowebsite '')*
+*[full code of my personal web app](https://github.com/olssonik/portfoliowebsite '')*
+*[design website code](https://github.com/olssonik/olssonik.github.io) '') also the link to the [website](https://olssonik.github.io/)) '')*
+*[tic-tac-toe](https://github.com/olssonik/tiock) '')*
+*[unit converter](https://github.com/olssonik/Unit-Converter) '')*
+*[russian roulette](https://github.com/olssonik/russian_roulette) '')*
   },
   
 
@@ -28,12 +35,12 @@ repostories:
 * Python ⭐⭐⭐,
 * C# ⭐⭐,
 * C ⭐,
-* Powershell ⭐⭐,
-* Docker ⭐⭐⭐,
-* Git ⭐⭐⭐
+* Powershell ⭐⭐ *[commercial api testing real life scenario](https://github.com/olssonik/apiTesting) '')*,
+* Docker ⭐⭐⭐*[commercial api testing real life scenario](https://github.com/olssonik/DockerPYscipt)) '')* ,
+* Git ⭐⭐⭐ 
 
 ### Projects 🔭
-Two websites [design focused](https://olssonik.github.io) and [built using SolidJS and express](https://oliborozynski.duckdns.org)
+Two websites *[design focused](https://olssonik.github.io)* and *[built using SolidJS and express](https://oliborozynski.duckdns.org)*
 
 
 ### Contact 💬
