@@ -37,7 +37,7 @@ comfortable while using : ⭐⭐⭐
 * C# ⭐⭐,
 * C ⭐,
 * Powershell ⭐⭐ *[commercial api testing real life scenario](https://github.com/olssonik/apiTesting)*,
-* Docker ⭐⭐⭐*[docker python script](https://github.com/olssonik/DockerPYscipt)* ,
+* Docker ⭐⭐⭐ *[docker python script](https://github.com/olssonik/DockerPYscipt)* ,
 * Git ⭐⭐⭐ 
 
 ### Projects 🔭
