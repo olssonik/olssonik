@@ -26,7 +26,6 @@ comfortable while using : ⭐⭐⭐
 *[design website code](https://github.com/olssonik/olssonik.github.io) also the link to the [website](https://olssonik.github.io/)*<br>
 *[tic-tac-toe](https://github.com/olssonik/tiock)*<br>
 *[unit converter](https://github.com/olssonik/Unit-Converter)*<br>
-*[russian roulette](https://github.com/olssonik/russian_roulette)*<br>
 },
   
 
