@@ -32,7 +32,7 @@ comfortable while using : ⭐⭐⭐
 
 
 * SQL ⭐⭐⭐ *[sql project](https://github.com/olssonik/sqlDB)*,
-* Python ⭐⭐⭐ *[sql project](https://github.com/olssonik/resizepicturesPY)*,
+* Python ⭐⭐⭐ *[testing code with python](https://github.com/olssonik/resizepicturesPY)*,
 * C# ⭐⭐,
 * C ⭐,
 * Powershell ⭐⭐ *[commercial api testing real life scenario](https://github.com/olssonik/apiTesting)*,
