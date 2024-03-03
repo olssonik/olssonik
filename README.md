@@ -39,8 +39,8 @@ comfortable while using : ⭐⭐⭐
 * Docker ⭐⭐⭐ *[docker python script](https://github.com/olssonik/DockerPYscipt)* ,
 * Git ⭐⭐⭐ 
 
-### Projects 🔭
-Two websites *[design focused](https://olssonik.github.io)* and *[built using SolidJS and express](https://oliborozynski.duckdns.org)*
+### Projects [Website](https://olssonik.github.io) 🌐
+*[design focused](https://olssonik.github.io)* and *[built using SolidJS and express](https://oliborozynski.ddns.net)*
 
 
 ### Contact 💬
